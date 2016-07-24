@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="27c56228-6c4d-43f1-8e74-4e520bdd62a8" name="nauguide.esy.es" url="http://31.220.16.152">
+        <fileTransfer host="31.220.16.152" port="21" rootFolder="/public_html" username="u682172187">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
